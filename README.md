@@ -1,4 +1,4 @@
-# 🚀 Dria Node Incentivized Tutorial: Easy Setup with Automated Script
+#  Dria Node Incentivized Tutorial: Easy Setup with Automated Script
 
 ## Quick Start Guide
 
