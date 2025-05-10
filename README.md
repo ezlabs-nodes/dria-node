@@ -15,13 +15,13 @@ dkn-compute-launcher start
 Step 3️⃣: Select Your AI Model
 Choose from supported models:
 
-#### `ollama` (Self-hosted)
+- #### `ollama` (Self-hosted)
 
-#### `openai` (API-based)
+- #### `openai` (API-based)
 
-#### `gemini` (Google's AI)
+- #### `gemini` (Google's AI)
 
-##### `openrouter` (Aggregated APIs)
+- ##### `openrouter` (Aggregated APIs)
 
 📌 Hardware Requirements:
 Node Specifications
