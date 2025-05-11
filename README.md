@@ -4,7 +4,7 @@
 
 ### Step 1️⃣: Automated Installation
 ````bash
-wget -q https://raw.githubusercontent.com/waults/dria-node/main/install.sh && chmod +x install.sh && ./install.sh
+wget -q https://raw.githubusercontent.com/ezlabs-nodes/dria-node/refs/heads/main/install.sh && chmod +x install.sh && ./install.sh
 ````
 ### Step 2️⃣: Create a Screen Session and Start Node
 ````
